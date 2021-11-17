@@ -29,6 +29,7 @@ div {
     background: #e0cb06;
     padding: 10px 20px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 h1 {
