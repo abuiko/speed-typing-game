@@ -48,3 +48,7 @@ textarea {
     padding: 10px;
     font-size: 25px;
 }
+
+textarea:disabled {
+    background: #d8d7cb;
+}
